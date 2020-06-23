@@ -1,0 +1,21 @@
+{
+  "name": "internship_application_code",
+  "version": "1.0.0",
+  "description": "It contains code and unit test of TASK",
+  "main": "index.js",
+  "scripts": {
+    "tests": "mocha -r ts-node/register src/unit-tests.spec.ts"
+  },
+  "author": "Keval Chauhan",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^4.2.11",
+    "@types/mocha": "^7.0.2",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  }
+}
