@@ -1,4 +1,4 @@
-# internship_application_code
+# Internship Application Code
 
 ## How to run?
 ### Clone or download 
